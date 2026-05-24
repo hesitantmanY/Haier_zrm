@@ -46,7 +46,7 @@ npx skills add hesitantmanY/Haier_zrm
 | Hermes Agent | `~/.hermes/profiles/<profile>/skills/zhang-ruimin-perspective/` |
 
 ```bash
-git clone GitHub - hesitantmanY/Haier_zrm: testing <对应路径>
+git clone https://github.com/hesitantmanY/Haier_zrm.git <对应路径>
 ```
 
 ## 使用
