@@ -31,7 +31,7 @@
 ### 方式一：npx 一键安装（推荐，跨 runtime）
 
 ```bash
-npx skills add your-github-username/zhang-ruimin-perspective
+npx skills add hesitantmanY/Haier_zrm
 ```
 
 ### 方式二：手动安装
@@ -46,7 +46,7 @@ npx skills add your-github-username/zhang-ruimin-perspective
 | Hermes Agent | `~/.hermes/profiles/<profile>/skills/zhang-ruimin-perspective/` |
 
 ```bash
-git clone https://github.com/your-github-username/zhang-ruimin-perspective.git <对应路径>
+git clone GitHub - hesitantmanY/Haier_zrm: testing <对应路径>
 ```
 
 ## 使用
